@@ -1,0 +1,41 @@
+/* Reset some default browser styles */
+body, h1, h2, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styles for the website */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    color: #ffffff;
+   background-color: rgb(59, 59, 59);
+    padding: 20px;
+    text-align: center;
+}
+
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(54, 50, 44);
+    color: #ffffff;
+    padding: 10px;
+}
+
